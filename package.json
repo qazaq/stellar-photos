@@ -1,0 +1,25 @@
+{
+  "name": "stellar-photos",
+  "version": "1.0.0",
+  "description": "Website for Stellar Photos",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoisaiah/stellar-photos.git"
+  },
+  "author": "Ayo Isaiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayoisaiah/stellar-photos/issues"
+  },
+  "homepage": "https://github.com/ayoisaiah/stellar-photos#readme"
+}
