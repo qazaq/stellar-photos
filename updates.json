@@ -2,7 +2,8 @@
   "addons": {
     "stellar@stellarapp.photos": {
       "updates": [
-        
+        { "version": "1.11.15",
+          "update_link": "https://stellarapp.photos/downloads/stellar_photos-1.11.15-an+fx-windows.xpi" }
       ]
     }
   }
